@@ -115,7 +115,7 @@ echo -e "\e[1;32m║\e[0m  \e[1;96m                    ROZEN DOES NOT REPRESENT 
 echo -e "\e[1;32m╚═════════════════════════════════════════════════════════════════════════════════════════════════════════\e[0m"
 echo ""
 echo -e "\e[1;34m─────────────────────────────────────────────────────────────────────────────────────────────────────────\e[0m"
-echo -e "\e[1;97m   📦 Repository: https://github.com/XTENSEI/twrp_device_tecno_LI6"
+echo -e "\e[1;97m   📦 Repository: https://github.com/XTENSEI/twrp_device_infinix_X6881"
 echo -e "\e[1;97m   👥 Team: #GRAYRAVENSTEAM and ShadowBytePrjkt "
 echo -e "\e[1;97m   🎯 Branch: pbrp-12.1"
 echo -e "\e[1;97m   💻 Purpose: Custom Recovery Development"
