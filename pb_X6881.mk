@@ -12,7 +12,7 @@ $(call inherit-product, vendor/pb/config/common.mk)
 
 # Product Specifics
 PRODUCT_NAME := pb_X6881
-PRODUCT_DEVICE := Infinix-X6881
+PRODUCT_DEVICE := X6881
 PRODUCT_BRAND := Infinix
 PRODUCT_MODEL := Infinix X6881
 PRODUCT_MANUFACTURER := INFINIX
